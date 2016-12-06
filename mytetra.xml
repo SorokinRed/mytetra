@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="root">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="14809579529tqaodbpex" name="neverwinter">
+    <node crypt="" id="1480957961onxtdw94gy" name="камни">
+     <recordtable>
+      <record id="148095807558wymqb0cj" name="Демонический камень" author="" url="" tags="камни атака оборона" ctime="20161205221435" dir="1480958075gbmlp8hsso" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
