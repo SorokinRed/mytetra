@@ -14,6 +14,11 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="148105994118po31hyaq" name="test">
+    <recordtable>
+     <record id="1481059974g2t6xhf4o7" name="тестовое изменение БД" author="" url="" tags="" ctime="20161207023254" dir="1481059974jb2igi5h0l" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
