@@ -15,7 +15,11 @@
     </node>
    </node>
    <node crypt="1" icon="" id="14810602127x3pjx4k91" name="UkM1U0lNUAMww9U1g7tXqZklrCUinfol/J44lB243ppHqF0y+n1yN9pNN3d+U+uWFJebD1RzHyhFmu6NL+Cul3tuc8oEV0dwLA3BqNorFcc="/>
-   <node crypt="" id="1481061179byhyylvz6h" name="GIT"/>
+   <node crypt="" id="1481061179byhyylvz6h" name="GIT">
+    <recordtable>
+     <record id="1481061249me70aqlt5r" name="Добавление содержимого каталога в новый репозиторий" author="" url="" tags="GIT REPO ADD DIR" ctime="20161207025409" dir="1481061249aatmsbxd5p" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
