@@ -7,18 +7,25 @@
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
-   <node crypt="" id="14809579529tqaodbpex" name="neverwinter">
-    <node crypt="" id="1480957961onxtdw94gy" name="камни">
+   <node crypt="" id="1480948348nc4ebkyj1c" name="СЭД">
+    <node crypt="" id="1480948373ii5bym0h3b" name="Стандартные проблемы"/>
+    <node crypt="" id="1480948384l09y49ti88" name="Не стандартные проблемы"/>
+    <node crypt="" id="1480948404uwfc2ai2j6" name="Основы документооборота">
      <recordtable>
-      <record id="148095807558wymqb0cj" name="Демонический камень" author="" url="" tags="камни атака оборона" ctime="20161205221435" dir="1480958075gbmlp8hsso" file="text.html"/>
+      <record id="14809489918m96irdirf" name="Статусы документов в СЭД" author="Семён" url="" tags="документ статус жизненный цикл" ctime="20161205194311" dir="148094899140humjkrol" file="text.html"/>
+      <record id="1480949104ragxt7nfos" name="Типы документов" author="Семён" url="" tags="типы документов" ctime="20161205194504" dir="1480949104wbrx7t3lim" file="text.html"/>
+      <record id="1480950368wxobifdg89" name="Удаление до-та, выбор решения" author="Семён" url="" tags="удаление документа" ctime="20161205200608" dir="1480950368sro8y2453o" file="text.html"/>
      </recordtable>
     </node>
-   </node>
-   <node crypt="1" icon="" id="14810602127x3pjx4k91" name="UkM1U0lNUAMww9U1g7tXqZklrCUinfol/J44lB243ppHqF0y+n1yN9pNN3d+U+uWFJebD1RzHyhFmu6NL+Cul3tuc8oEV0dwLA3BqNorFcc="/>
-   <node crypt="" id="1481061179byhyylvz6h" name="GIT">
-    <recordtable>
-     <record id="1481061249me70aqlt5r" name="Добавление содержимого каталога в новый репозиторий" author="" url="" tags="GIT REPO ADD DIR" ctime="20161207025409" dir="1481061249aatmsbxd5p" file="text.html"/>
-    </recordtable>
+    <node crypt="" id="1480948832h56n7norgd" name="админ работа в СЭД">
+     <recordtable>
+      <record id="1480948759ngbozenv27" name="Добавление корреспондентов" author="Семён" url="" tags="СЭД корреспондент " ctime="20161205194036" dir="1480948759zizar9y1x3" file="text.html"/>
+      <record id="148094924921r0dw6rj7" name="Удаление документа" author="Семён" url="" tags="удаление" ctime="20161205194729" dir="14809492492xb506cqc5" file="text.html"/>
+      <record id="1480949428mr5451ic2e" name="Помещение номера в резерв" author="Семён" url="" tags="номер_документа резерв" ctime="20161205195028" dir="1480949428ndpyumcp0v" file="text.html"/>
+      <record id="1480949719ka4jy0u4bz" name="Добавление нового пользователя" author="Семён" url="" tags="СЭД новый пользователь" ctime="20161205195519" dir="1480949719tmoopq9ueu" file="text.html"/>
+      <record id="1480949912gtfgmm5927" name="Удаление пользователя" author="Семён" url="" tags="удаление учеток пользователь" ctime="20161205195832" dir="1480949912q6ptdbdgpq" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
