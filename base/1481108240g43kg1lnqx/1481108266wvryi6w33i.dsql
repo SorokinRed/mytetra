@@ -1,0 +1,23 @@
+---Группа филиала
+------если неактивна галочка только мои поручения
+------если нет шаблонов при создани доков, пустые поля
+Select ka_filial_gr from kc_department where ka_is_branch = 1 
+and object_name like '%филиал%'
+
+-- После утреннего перезапуска задач из APaused выполнять скрипт:
+-- для корректного назначения заданий пользователям
+update ks_mission object  
+   set r_lock_owner = ''
+   set r_current_state = 3
+   set ka_state_name_ru = 'На исполнении'
+where r_object_id in
+       (select orig_r_object_id
+          from dm_dbo.kcv_inbox_item_all i
+         where i.task_name like 'miss.Executing%'
+           and exists (select *
+                  from ks_mission
+                 where r_modify_date between date(today) - 1 and
+                       date('01.12.2016 10:57:00')
+                   and r_object_id = i.orig_r_object_id
+                   and r_current_state in (2, 4, 5)))
+ 

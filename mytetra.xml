@@ -14,6 +14,22 @@
     </record>
    </recordtable>
    <node crypt="" id="1480948348nc4ebkyj1c" name="СЭД">
+    <recordtable>
+     <record id="1481108240b596em10se" name="Основные файлы запросов" author="Семённ" url="" tags="DQL DSQL" ctime="20161207155720" dir="1481108240g43kg1lnqx" file="text.html">
+      <files>
+       <file id="1481108266eiwl7sb1ex" fileName="pk_2016-02-16.dsql" type="file"/>
+       <file id="1481108266wvryi6w33i" fileName="scripts.dsql" type="file"/>
+       <file id="14811082669g4xh05qnx" fileName="запросы Женя последние.dsql" type="file"/>
+       <file id="14811082667irf3ovgse" fileName="инстр по перезапуску поручений по кругу.dsql" type="file"/>
+       <file id="1481108266l0goz7zdpb" fileName="Новые скрипты.dsql" type="file"/>
+       <file id="1481108266wgt2np907v" fileName="перезапуск поручений по кругу.dsql" type="file"/>
+       <file id="148110826688cgedgzaf" fileName="права для гжи.dsql" type="file"/>
+       <file id="148110826672l3bccj9s" fileName="работа с объектами.dsql" type="file"/>
+       <file id="1481108266ox9313s3mr" fileName="Скрипты Лера.dsql" type="file"/>
+       <file id="14811082668crjwncwl5" fileName="Создание и заполнение групп.dsql" type="file"/>
+      </files>
+     </record>
+    </recordtable>
     <node crypt="" id="1480948373ii5bym0h3b" name="Стандартные проблемы">
      <recordtable>
 <<<<<<< HEAD
