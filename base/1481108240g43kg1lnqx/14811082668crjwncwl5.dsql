@@ -1,0 +1,167 @@
+/*- Создание групп пользователей
+<name> - сокращенное название филиала. 
+В случае Администрации Западного управленческого округа Свердловской области подойдет сокращение 'adm_west' -*/
+
+create dm_group object
+set group_name = 'senders_<name>_grant'
+set group_class = 'group'
+set description = 'GRANT Группа пользователей, отправляющих исходящие документы <название филиала>'
+go
+create dm_group object
+set group_name = 'senders_<name>'
+set group_class = 'group'
+set description = 'Группа пользователей, отправляющих исходящие документы <название филиала>'
+go
+create dm_group object
+set group_name = 'rule_checkers_<name>_grant'
+set group_class = 'group'
+set description = 'GRANT Группа нормоконтролеров <название филиала>'
+go
+create dm_group object
+set group_name = 'rule_checkers_<name>'
+set group_class = 'group'
+set description = 'Группа нормоконтролеров <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_org_<name>_grant'
+set group_class = 'role'
+set description = 'GRANT Группа регистраторов организационных документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_org_<name>'
+set group_class = 'role'
+set description = 'Группа регистраторов организационных документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_order_<name>_grant'
+set group_class = 'role'
+set description = 'GRANT Группа регистраторов распорядительных документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_order_<name>'
+set group_class = 'role'
+set description = 'Группа регистраторов распорядительных документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_<name>_grant'
+set group_class = 'role'
+set description = 'GRANT Группа регистраторов входящих документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_<name>'
+set group_class = 'role'
+set description = 'Группа регистраторов входящих документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_out_<name>_grant'
+set group_class = 'role'
+set description = 'GRANT Группа регистраторов исходящих документов <название филиала>'
+go
+create dm_group object
+set group_name = 'registrators_out_<name>'
+set group_class = 'role'
+set description = 'Группа регистраторов исходящих документов <название филиала>'
+go
+create dm_group object
+set group_name = 'pso_control_dep_<name>_gr'
+set group_class = 'group'
+set description = 'GRANT Группа контролеров <название филиала>'
+go
+create dm_group object
+set group_name = 'pso_control_dep_<name>'
+set group_class = 'group'
+set description = 'Группа контролеров <название филиала>'
+go
+create dm_group object
+set group_name = 'mission_registrator_<name>_gr'
+set group_class = 'group'
+set description = 'GRANT Группа регистраторов поручений <название филиала>'
+go
+create dm_group object
+set group_name = 'mission_registrator_<name>'
+set group_class = 'group'
+set description = 'Группа регистраторов поручений <название филиала>'
+go
+create dm_group object
+set group_name = 'confidential_<name>'
+set group_class = 'group'
+set description = 'Группа доступа к конфиденциальным документам <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_out_<name>_grant'
+set group_class = 'group'
+set description = 'GRANT Группа прикрепляющих скан. подлинник к исходящим документам <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_out_<name>'
+set group_class = 'group'
+set description = 'Группа прикрепляющих скан. подлинник к исходящим документам <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_org_<name>'
+set group_class = 'group'
+set description = 'Группа прикрепляющих скан. подлинник к организационным документам <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_org_<name>_grant'
+set group_class = 'group'
+set description = 'GRANT Группа прикрепляющих скан. подлинник к организационным документам <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_<name>'
+set group_class = 'group'
+set description = 'Группа прикрепляющих скан. подлинник <название филиала>'
+go
+create dm_group object
+set group_name = 'attachers_<name>_grant'
+set group_class = 'group'
+set description = 'GRANTГруппа прикрепляющих скан. подлинник <название филиала>'
+go
+update kc_department object
+set ka_attachers_gr = 'attachers_<name>'
+set ka_attachers_grant = 'attachers_<name>_grant'
+set ka_registrators_gr = 'registrators_<name>'
+set ka_registrators_grant = 'registrators_<name>_grant'
+set ka_rule_checkers_gr = 'rule_checkers_<name>'
+set ka_rule_checkers_grant = 'rule_checkers_<name>_grant'
+set ka_head_gr = 'head_<hame>'
+set ka_senders_gr = 'senders_<name>'
+set ka_senders_grant = 'senders_<name>_grant'
+set ka_mission_registrator_gr = 'mission_registrator_<name>'
+set ka_mission_registrat_grant = 'mission_registrator_<name>_grant'
+set ka_registrators_order_gr = 'registrators_order_<name>'
+set ka_registrators_order_grant = 'registrators_order_<name>_grant'
+set ka_access_confidential_gr = 'confidential_<name>'
+set ka_registrators_inc_gr = 'registrators_<name>'
+set ka_registrators_inc_grant = 'registrators_<name>_grant'
+set ka_registrators_out_gr = 'registrators_out_<name>'
+set ka_registrators_out_grant = 'registrators_out_<name>_grant'
+set ka_rule_checkers_ordr_gr = 'rule_checkers_<name>'
+set ka_rule_checkers_ordr_grant = 'rule_checkers_<name>_grant'
+set ka_rule_checkers_out_gr = 'rule_checkers_<name>'
+set ka_rule_checkers_out_grant = 'rule_checkers_<name>_grant'
+set ka_pso_control_gr = 'pso_control_dep_<name>'
+set ka_pso_control_grant = 'pso_control_dep_<name>_gr'
+set ka_attachers_org_gr = 'attachers_org_<name>'
+set ka_attachers_org_grant = 'attachers_org_<name>_grant'
+set ka_registrators_out_gr = 'registrators_out_<name>'
+set ka_registrators_out_grant = 'registrators_out_<name>_grant'
+set ka_registrators_org_gr = 'registrators_org_<name>'
+set ka_registrators_org_grant = 'registrators_org_<name>_grant'
+set ka_attachers_out_doc_gr = 'attachers_out_<name>'
+set ka_attachers_out_doc_grant = 'attachers_out_<name>_grant'
+set ka_rule_checkers_org_gr = 'rule_checkers_<name>'
+set ka_rule_checkers_org_grant = 'rule_checkers_<name>_grant'
+where ka_is_branch = 1
+and object_name = '<Название филиала>'
+go
+
+-- Заполнение групп
+-- Для заполнения групп используются следующие скрипты(на примере групп регистрации исходящих документов):
+ALTER GROUP 'registrators_out_<name>' ADD 'user1', 'user2'
+go
+ALTER GROUP 'registrators_out_<name>_grant' ADD 'user1_substitutes', 'user1_substitutes'
+go
+/*-где, user1 и user2 это user_name из kc_user
+   где, user1_substitutes и user1_substitutes это соответствующие ka_substitute_group из kc_org_position
+   остальные группы заполняются аналогично примеру выше-*/ 
