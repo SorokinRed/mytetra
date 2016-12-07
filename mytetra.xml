@@ -15,7 +15,7 @@
    </recordtable>
    <node crypt="" id="1480948348nc4ebkyj1c" name="СЭД">
     <recordtable>
-     <record id="1481108240b596em10se" name="Основные файлы запросов" author="Семённ" url="" tags="DQL " ctime="20161207155720" dir="1481108240g43kg1lnqx" file="text.html">
+     <record id="1481108240b596em10se" name="Основные файлы запросов" author="Семённ" url="" tags="DQL DSQL" ctime="20161207155720" dir="1481108240g43kg1lnqx" file="text.html">
       <files>
        <file id="1481108266eiwl7sb1ex" fileName="pk_2016-02-16.dsql" type="file"/>
        <file id="1481108266wvryi6w33i" fileName="scripts.dsql" type="file"/>
