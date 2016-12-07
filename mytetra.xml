@@ -6,6 +6,12 @@
   <node crypt="" id="1300000000aaaaaaaaa1" name="root">
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1481104012meokh2ywl0" name="Запуст программы на компьютере и подтягивание этой БД" author="Семён" url="" tags="копировать БД mytetra git" ctime="20161207144652" dir="14811040120i8uh2a2qc" file="text.html">
+     <files>
+      <file id="1481104160svmf4gq5r8" fileName="Git-2.11.0-64-bit.exe" type="file"/>
+      <file id="1481104160zm9vyl7if3" fileName="mytetra_1_42_2_win.rar" type="file"/>
+     </files>
+    </record>
    </recordtable>
    <node crypt="" id="1480948348nc4ebkyj1c" name="СЭД">
     <node crypt="" id="1480948373ii5bym0h3b" name="Стандартные проблемы"/>
