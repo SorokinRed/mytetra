@@ -39,9 +39,14 @@
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
      <recordtable>
       <record id="1481107699xpxiq3fcno" name="Просмотр прикрепленных отчетов к документу" author="Семён" url="" tags="отчет на исполнении на принятие отчета не открывается DQL" ctime="20161207154907" dir="14811076994mb5r08zek" file="text.html"/>
+      <record id="1481108095854ac696tx" name="Задачи на документе (поручении)" author="Семён" url="" tags="задачи на документе r_workflow_id DQL" ctime="20161207155455" dir="1481108095d3l0ssw7bb" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="14811077433sqkytd4f0" name="API"/>
+    <node crypt="" id="14811077433sqkytd4f0" name="API">
+     <recordtable>
+      <record id="1481107913bkv4o4aiqi" name="Отправить поручение на исполенение" author="Семён" url="" tags="На исполенение API" ctime="20161207155153" dir="14811079131629sv1gjv" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
