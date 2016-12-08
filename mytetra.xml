@@ -33,6 +33,7 @@
     <node crypt="" id="1480948373ii5bym0h3b" name="Стандартные проблемы">
      <recordtable>
       <record id="1481107513mpc5r1p12c" name="Отчет не открывается" author="Семён" url="" tags="Отчет не открывается на принятие отчета" ctime="20161207154513" dir="1481107513pwkjtxt1s1" file="text.html"/>
+      <record id="14811900435be219aujj" name="Нет номера в резерве" author="Семён" url="" tags="номер зарезервирован резерв не отображается" ctime="20161208144043" dir="148119004361004e2hrj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1480948384l09y49ti88" name="Не стандартные проблемы"/>
