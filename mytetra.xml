@@ -32,11 +32,7 @@
     </recordtable>
     <node crypt="" id="1480948373ii5bym0h3b" name="Стандартные проблемы">
      <recordtable>
-<<<<<<< HEAD
-      <record id="1481107500or2ds9y7nh" name="Не открывается документ из папки &quot;на рассмотрение&quot;" author="" url="" tags="" ctime="20161207154500" dir="1481107500es07p9htyl" file="text.html"/>
-=======
       <record id="1481107513mpc5r1p12c" name="Отчет не открывается" author="Семён" url="" tags="Отчет не открывается на принятие отчета" ctime="20161207154513" dir="1481107513pwkjtxt1s1" file="text.html"/>
->>>>>>> 8f2609ef3228ccb879c2488e7fd94931ff4874c1
      </recordtable>
     </node>
     <node crypt="" id="1480948384l09y49ti88" name="Не стандартные проблемы"/>
