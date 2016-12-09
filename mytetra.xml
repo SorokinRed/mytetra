@@ -53,6 +53,7 @@
       <record id="1480949428mr5451ic2e" name="Помещение номера в резерв" author="Семён" url="" tags="номер_документа резерв" ctime="20161205195028" dir="1480949428ndpyumcp0v" file="text.html"/>
       <record id="1480949719ka4jy0u4bz" name="Добавление нового пользователя" author="Семён" url="" tags="СЭД новый пользователь" ctime="20161205195519" dir="1480949719tmoopq9ueu" file="text.html"/>
       <record id="1480949912gtfgmm5927" name="Удаление пользователя" author="Семён" url="" tags="удаление учеток пользователь" ctime="20161205195832" dir="1480949912q6ptdbdgpq" file="text.html"/>
+      <record id="14812639346m5j2wr0k0" name="При присвоении номера документу ЭЦП не ломается" author="Семён" url="" tags="ЭЦП резерв номер документа" ctime="20161209111214" dir="1481263934ha83anp9it" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
