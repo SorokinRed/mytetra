@@ -71,6 +71,7 @@
     <node crypt="" id="14811077433sqkytd4f0" name="API">
      <recordtable>
       <record id="1481107913bkv4o4aiqi" name="Отправить поручение на исполенение" author="Семён" url="" tags="На исполенение API" ctime="20161207155153" dir="14811079131629sv1gjv" file="text.html"/>
+      <record id="1481800432vzj48shcql" name="Отправить на принятие отчета" author="Семён" url="" tags="На принятие отчета API " ctime="20161215161352" dir="1481800432ubs394bpbb" file="text.html"/>
      </recordtable>
     </node>
    </node>
