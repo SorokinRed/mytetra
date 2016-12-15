@@ -64,6 +64,7 @@
       <record id="1481200101cqehg5do48" name="Список резервов и номера по филиалу" author="" url="" tags="резерв номера список" ctime="20161208172821" dir="1481200101ia2slv3p1o" file="text.html"/>
       <record id="1481200554hxh8fezpwk" name="Просмотр номеров резерва" author="Семён" url="" tags="Список номеров резерва просмотр" ctime="20161208173554" dir="1481200554x6dg51bikg" file="text.html"/>
       <record id="1481200396lobr7kxlpr" name="Добавление номера в резерв" author="Семён" url="" tags="номер документа добавить в резерв" ctime="20161208173316" dir="14812003962p100xmzpf" file="text.html"/>
+      <record id="148179126145kkvsgxex" name="Периодическое поручение" author="Семён" url="" tags="Поручение задача период цикл" ctime="20161215134101" dir="1481791261qhql7o0ul8" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="14811077433sqkytd4f0" name="API">
