@@ -74,7 +74,11 @@
       <record id="1481800432vzj48shcql" name="Отправить на принятие отчета" author="Семён" url="" tags="На принятие отчета API " ctime="20161215161352" dir="1481800432ubs394bpbb" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1481867636kr8vkrhtwq" name="Java"/>
+    <node crypt="" id="1481867636kr8vkrhtwq" name="Java">
+     <recordtable>
+      <record id="1481869286qgbizceyfp" name="Отклонил выполенение апплета, а он нужен" author="Семён" url="" tags="Java applet апплет отклонить" ctime="20161216112126" dir="1481869286adq7hzxfht" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
