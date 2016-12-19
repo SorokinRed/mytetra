@@ -87,7 +87,11 @@
      <record id="1482147084i534193k8g" name="Все базы данных" author="Семён" url="" tags="список БД" ctime="20161219163124" dir="1482147084giahcfgp6l" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1482147104zz044ly6ia" name="Python"/>
+   <node crypt="" id="1482147104zz044ly6ia" name="Python">
+    <recordtable>
+     <record id="1482147772ky2zlg3xv2" name="Подключение к MSSQL" author="Семён" url="" tags="MSSQL ODBC Python" ctime="20161219164252" dir="1482147772mjrobjjw4f" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
