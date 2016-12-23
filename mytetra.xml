@@ -71,6 +71,8 @@
       <record id="1481200396lobr7kxlpr" name="Добавление номера в резерв" author="Семён" url="" tags="номер документа добавить в резерв" ctime="20161208173316" dir="14812003962p100xmzpf" file="text.html"/>
       <record id="148179126145kkvsgxex" name="Периодическое поручение" author="Семён" url="" tags="Поручение задача период цикл" ctime="20161215134101" dir="1481791261qhql7o0ul8" file="text.html"/>
       <record id="1482295988eowga7gd80" name="права, предоставленные документу и вложениям" author="Семён" url="" tags="права предоставленные документу и вложениям" ctime="20161221095308" dir="14822959884n0xmrzav6" file="text.html"/>
+      <record id="1482492954n3k5hockjm" name="Отметить как прочитанный" author="Семён" url="" tags="Жирный Открыт Прочитан" ctime="20161223163554" dir="1482492954nhhe2x2cq7" file="text.html"/>
+      <record id="1482493004cutz79uspr" name="Просмотр всез задач на пользователе" author="Семён" url="" tags="" ctime="20161223163644" dir="14824930044k7svz68ft" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="14811077433sqkytd4f0" name="API">
