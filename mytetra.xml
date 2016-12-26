@@ -61,6 +61,7 @@
       <record id="1481870546j73i9jzmgd" name="Изменить подписанта" author="Семён" url="" tags="Подписант орг позиция подписать документ" ctime="20161216114226" dir="1481870546vkl2ng860o" file="text.html"/>
       <record id="1482120161emddsfruvl" name="Добавление роли руководителя" author="Семён" url="" tags="роль галочка руководитель" ctime="20161219090241" dir="14821201611isavv9o1j" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1482723107wqftugszja" name="Шаблоны"/>
     </node>
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
      <recordtable>
