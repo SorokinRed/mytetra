@@ -57,11 +57,15 @@
       <record id="1480949719ka4jy0u4bz" name="Добавление нового пользователя" author="Семён" url="" tags="СЭД новый пользователь" ctime="20161205195519" dir="1480949719tmoopq9ueu" file="text.html"/>
       <record id="1480949912gtfgmm5927" name="Удаление пользователя" author="Семён" url="" tags="удаление учеток пользователь" ctime="20161205195832" dir="1480949912q6ptdbdgpq" file="text.html"/>
       <record id="14812639346m5j2wr0k0" name="При присвоении номера документу ЭЦП не ломается" author="Семён" url="" tags="ЭЦП резерв номер документа" ctime="20161209111214" dir="1481263934ha83anp9it" file="text.html"/>
-      <record id="1481700236ygwh83jiap" name="Изменение шаблона" author="Семён" url="" tags="шаблон изменить" ctime="20161214122356" dir="1481700236gflnbvnsc7" file="text.html"/>
       <record id="1481870546j73i9jzmgd" name="Изменить подписанта" author="Семён" url="" tags="Подписант орг позиция подписать документ" ctime="20161216114226" dir="1481870546vkl2ng860o" file="text.html"/>
       <record id="1482120161emddsfruvl" name="Добавление роли руководителя" author="Семён" url="" tags="роль галочка руководитель" ctime="20161219090241" dir="14821201611isavv9o1j" file="text.html"/>
      </recordtable>
-     <node crypt="" id="1482723107wqftugszja" name="Шаблоны"/>
+     <node crypt="" id="1482723107wqftugszja" name="Шаблоны">
+      <recordtable>
+       <record id="1482723779eak856fg1f" name="Шаблоны" author="Семён" url="" tags="Шаблон" ctime="20161226084259" dir="1482723779l5qcupc78a" file="text.html"/>
+       <record id="1481700236ygwh83jiap" name="Изменение шаблона" author="Семён" url="" tags="шаблон изменить" ctime="20161226084352" dir="1481700236gflnbvnsc7" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
      <recordtable>
