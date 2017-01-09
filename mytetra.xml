@@ -61,6 +61,7 @@
       <record id="1481870546j73i9jzmgd" name="Изменить подписанта" author="Семён" url="" tags="Подписант орг позиция подписать документ" ctime="20161216114226" dir="1481870546vkl2ng860o" file="text.html"/>
       <record id="1482120161emddsfruvl" name="Добавление роли руководителя" author="Семён" url="" tags="роль галочка руководитель" ctime="20161219090241" dir="14821201611isavv9o1j" file="text.html"/>
       <record id="14839602858wyakklj2y" name="Типы документов" author="Семён" url="" tags="doc_type document_type" ctime="20170109161125" dir="1483960285nfabv48hy1" file="text.html"/>
+      <record id="1483967506oqc35315kd" name="Добавление подвида документов" author="Семён" url="" tags="Подвид" ctime="20170109181146" dir="1483967506jqx1upc9qd" file="text.html"/>
      </recordtable>
      <node crypt="" id="1482723107wqftugszja" name="Шаблоны">
       <recordtable>
