@@ -69,14 +69,18 @@
        <record id="1483959535c265lmcltm" name="Добавление шаблона в существующий подвид" author="Семён" url="" tags="шаблон добавить" ctime="20170109155855" dir="1483959535i93pgl2n8v" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="14839598332s48nd6n8k" name="Резервы номеров">
+      <recordtable>
+       <record id="1481200396lobr7kxlpr" name="Добавление номера в резерв" author="Семён" url="" tags="номер документа добавить в резерв" ctime="20170109160400" dir="14812003962p100xmzpf" file="text.html"/>
+       <record id="1481200554hxh8fezpwk" name="Просмотр номеров резерва" author="Семён" url="" tags="Список номеров резерва просмотр" ctime="20170109160403" dir="1481200554x6dg51bikg" file="text.html"/>
+       <record id="1481200101cqehg5do48" name="Список резервов и номера по филиалу" author="" url="" tags="резерв номера список" ctime="20170109160409" dir="1481200101ia2slv3p1o" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
      <recordtable>
       <record id="1481107699xpxiq3fcno" name="Просмотр прикрепленных отчетов к документу" author="Семён" url="" tags="отчет на исполнении на принятие отчета не открывается DQL" ctime="20161207154907" dir="14811076994mb5r08zek" file="text.html"/>
       <record id="1481108095854ac696tx" name="Задачи на документе (поручении)" author="Семён" url="" tags="задачи на документе r_workflow_id DQL" ctime="20161207155455" dir="1481108095d3l0ssw7bb" file="text.html"/>
-      <record id="1481200101cqehg5do48" name="Список резервов и номера по филиалу" author="" url="" tags="резерв номера список" ctime="20161208172821" dir="1481200101ia2slv3p1o" file="text.html"/>
-      <record id="1481200554hxh8fezpwk" name="Просмотр номеров резерва" author="Семён" url="" tags="Список номеров резерва просмотр" ctime="20161208173554" dir="1481200554x6dg51bikg" file="text.html"/>
-      <record id="1481200396lobr7kxlpr" name="Добавление номера в резерв" author="Семён" url="" tags="номер документа добавить в резерв" ctime="20161208173316" dir="14812003962p100xmzpf" file="text.html"/>
       <record id="148179126145kkvsgxex" name="Периодическое поручение" author="Семён" url="" tags="Поручение задача период цикл" ctime="20161215134101" dir="1481791261qhql7o0ul8" file="text.html"/>
       <record id="1482295988eowga7gd80" name="права, предоставленные документу и вложениям" author="Семён" url="" tags="права предоставленные документу и вложениям" ctime="20161221095308" dir="14822959884n0xmrzav6" file="text.html"/>
       <record id="1482492954n3k5hockjm" name="Отметить как прочитанный" author="Семён" url="" tags="Жирный Открыт Прочитан" ctime="20161223163554" dir="1482492954nhhe2x2cq7" file="text.html"/>
