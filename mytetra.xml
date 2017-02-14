@@ -135,7 +135,11 @@
      <record id="1482406457uucvcy4r2b" name="Adding an existing project to GitHub using the command line" author="" url="" tags="" ctime="20161222163417" dir="14824064572sqwr3taj1" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1487065163n9nj87gy41" name="LINUX"/>
+   <node crypt="" id="1487065163n9nj87gy41" name="LINUX">
+    <recordtable>
+     <record id="1487066331frkzhz0j6v" name="MSSQL client" author="Семён" url="" tags="free tds Free_TDS MSSQL" ctime="20170214145851" dir="1487066331e7b6emrdfx" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
