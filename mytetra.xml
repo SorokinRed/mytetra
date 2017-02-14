@@ -135,13 +135,7 @@
      <record id="1482406457uucvcy4r2b" name="Adding an existing project to GitHub using the command line" author="" url="" tags="" ctime="20161222163417" dir="14824064572sqwr3taj1" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1483177099fp6gbpbrns" name="boting">
-    <node crypt="" id="1483177115kada1gdm63" name="astral_scheduler">
-     <recordtable>
-      <record id="1483177515lfzsjf5ckw" name="Требования к ПО" author="Семён" url="" tags="требования scheduler" ctime="20161231144515" dir="14831775157zvj4n38pw" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
+   <node crypt="" id="1487065163n9nj87gy41" name="LINUX"/>
   </node>
  </content>
 </root>
