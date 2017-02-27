@@ -72,6 +72,7 @@
        <record id="1481700236ygwh83jiap" name="Изменение шаблона" author="Семён" url="" tags="шаблон изменить" ctime="20161226084352" dir="1481700236gflnbvnsc7" file="text.html"/>
        <record id="14839379411cwo92ulor" name="Добавление номенклатуры дела в шаблон" author="Семён" url="" tags="шаблон номенклатура" ctime="20170109095901" dir="1483937941pwjopd5793" file="text.html"/>
        <record id="1483959535c265lmcltm" name="Добавление шаблона в существующий подвид" author="Семён" url="" tags="шаблон добавить" ctime="20170109155855" dir="1483959535i93pgl2n8v" file="text.html"/>
+       <record id="14881716715062vjvsf0" name="Инструкция от добавления вида до создания регистрационной последовательности" author="Семён" url="" tags="Вид Подвид шаблон регистрационная последоватлеьность" ctime="20170227100111" dir="1488171671zvn2i6pxua" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="14839598332s48nd6n8k" name="Резервы номеров">
