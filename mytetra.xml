@@ -98,7 +98,11 @@
        <record id="1482493004cutz79uspr" name="Просмотр всех задач на пользователе" author="Семён" url="" tags="" ctime="20170124133710" dir="14824930044k7svz68ft" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="14890360462mgz3stxqd" name="Вложения"/>
+     <node crypt="" id="14890360462mgz3stxqd" name="Вложения">
+      <recordtable>
+       <record id="1489036084jom0pg92nd" name="Добавить вложение" author="Семён" url="" tags="Файлы Вложение Вложения" ctime="20170309100804" dir="1489036084a5441ejsjr" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="1481107738llmszkhcn5" name="DQL">
      <recordtable>
