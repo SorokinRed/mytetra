@@ -101,6 +101,7 @@
      <node crypt="" id="14890360462mgz3stxqd" name="Вложения">
       <recordtable>
        <record id="1489036084jom0pg92nd" name="Добавить вложение" author="Семён" url="" tags="Файлы Вложение Вложения" ctime="20170309100804" dir="1489036084a5441ejsjr" file="text.html"/>
+       <record id="14894869895a80w52ful" name="Список удаленных вложений" author="Семён" url="" tags="Вложение удалено" ctime="20170314152309" dir="14894869893y7dr7ikd4" file="text.html"/>
       </recordtable>
      </node>
     </node>
