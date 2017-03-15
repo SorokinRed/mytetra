@@ -83,6 +83,7 @@
        <record id="1481200101cqehg5do48" name="Список резервов и номера по филиалу" author="" url="" tags="резерв номера список" ctime="20170109160409" dir="1481200101ia2slv3p1o" file="text.html"/>
        <record id="1483960193fcgr0qqlfu" name="Создание резерва" author="Семён" url="" tags="создать резерв" ctime="20170109160953" dir="1483960193ccqxeoqksc" file="text.html"/>
        <record id="1480949428mr5451ic2e" name="Помещение номера в резерв" author="Семён" url="" tags="номер_документа резерв" ctime="20170111155140" dir="1480949428ndpyumcp0v" file="text.html"/>
+       <record id="14895560601xygnx4105" name="Шаблон регистрационного номера" author="Семён" url="" tags="Шаблон рег номер " ctime="20170315103420" dir="1489556060cbmq6z8895" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1484131942pi95nztn6c" name="Пользователи СЭД">
